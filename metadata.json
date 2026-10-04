@@ -1,0 +1,6 @@
+{
+  "name": "Bill Splitter",
+  "description": "A polished, responsive bill splitter for groups of friends to settle dining and event expenses fairly with tax and tip calculations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
